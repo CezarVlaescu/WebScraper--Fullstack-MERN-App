@@ -51,6 +51,8 @@ Web Scraping Tools:
 React UI:
 * Structured Architecture: Adopted a methodical and architectural approach to organize folders and components.
 * Styling: Leveraging Tailwind CSS for a sleek and modern design (implementation in progress).
+* Export to Excel Feature
+* Search records by their sentiment 
 
 Node.js Backend:
 * Organized Architecture: Maintained a clean directory structure emphasizing modularity and readability.
