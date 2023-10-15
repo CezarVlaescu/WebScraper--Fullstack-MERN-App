@@ -20,13 +20,16 @@ This project is designed to scrape HTML elements from the site [https://wsa-test
 2. Features and upcoming features
 
 Web Scraping Tools Used: Puppeteer (A Node library which provides a high-level API over the Chrome DevTools Protocol. Ideal for tasks like web scraping and automating web browser interactions), Regex (Used for pattern matching and parsing the scraped data).
+
 React UI: A user-friendly interface built using React that allows users to display the scraped data, export the data as Excel and sort data by their sentiment.
+
 Node.js Backend: A robust backend powered by Node.js that handles web scraping requests and communicates with MongoDB for data storage.
+
 MongoDB Integration (to be implemented): Efficiently store and retrieve scraped data using MongoDB.
 
 3. Installation
 
-git clone [Your Repository Link]
+git clone [(https://github.com/CezarVlaescu/WebScraper-React-NodeJS-MongoDB.git)](https://github.com/CezarVlaescu/WebScraper-React-NodeJS-MongoDB.git)
 
 cd Web-Scraper-React-NodeJS-MongoDB
 npm install
