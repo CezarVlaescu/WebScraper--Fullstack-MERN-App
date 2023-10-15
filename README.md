@@ -11,6 +11,7 @@ Table of Contents
 5. Project Choices and Standout Features
 6. Learning Experience
 
+**************************************
 
 1. Introduction
 
