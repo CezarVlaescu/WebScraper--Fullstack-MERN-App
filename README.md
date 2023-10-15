@@ -2,14 +2,14 @@
 
 A web scraping application built with React for the front end, Node.js for the backend, and MongoDB for data storage.
 
-# Table of Contents
+## Table of Contents
 
-# 1. Introduction
-# 2. Features
-# 3. Installation
-# 4. API Endpoints
-# 5. Project Choices and Standout Features
-# 6. Learning Experience
+### 1. Introduction
+### 2. Features
+### 3. Installation
+### 4. API Endpoints
+### 5. Project Choices and Standout Features
+### 6. Learning Experience
 
 **************************************
 
