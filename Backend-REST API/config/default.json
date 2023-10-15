@@ -1,0 +1,5 @@
+{
+    "PORT": 5000,
+    "URL" : "https://wsa-test.vercel.app/",
+    "mongoURL" : "mongodb://localhost:27017/webscraper_db"
+}
