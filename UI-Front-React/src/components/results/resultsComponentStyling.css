@@ -1,0 +1,8 @@
+.data-display {
+    background-color: #E0E0E0;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    height: 100%;  
+}
